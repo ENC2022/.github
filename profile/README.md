@@ -1,5 +1,3 @@
 # ENC2022 - Encuentro Nacional de Computación 2022
 
-## Taller de Patrones de Diseño
-
-Espacio de trabajo para demostración de desarrollo de software con herramientas en la nube
+![image](https://user-images.githubusercontent.com/84739791/184497990-d2397e84-3997-4840-b992-d75842059706.png)
